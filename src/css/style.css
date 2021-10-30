@@ -11957,7 +11957,7 @@ fieldset:disabled .btn {
   }
 }
 
-body {
-  background-color: #dee2e6;
+.nav-bg {
+  background-color: #212529;
 }
 /*# sourceMappingURL=style.css.map */
