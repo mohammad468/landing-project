@@ -3,6 +3,7 @@ import MyNav from "./components/MyNav";
 import Banner from "./components/Banner";
 import Cards from "./components/Cards";
 import Search from "./components/Search";
+import Logoes from "./components/Logoes";
 
 import "./css/style.css";
 
@@ -14,6 +15,7 @@ class App extends Component {
         <Banner/>
         <Cards/>
         <Search/>
+        <Logoes/>
       </div>
     );
   }
