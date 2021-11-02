@@ -14,7 +14,7 @@ class Logoes extends Component {
             <Image src={apple} fluid />
           </Col>
           <Col xs={4} sm={3} md={3} lg={3} xl={3} xxl={3}>
-            <Image src={apple} fluid />
+            <Image src={samsung} fluid />
           </Col>
           <Col xs={4} sm={3} md={3} lg={3} xl={3} xxl={3}>
             <Image src={apple} fluid />
