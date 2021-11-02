@@ -4,6 +4,7 @@ import Banner from "./components/Banner";
 import Cards from "./components/Cards";
 import Search from "./components/Search";
 import Logoes from "./components/Logoes";
+import Footer from "./components/Footer";
 
 import "./css/style.css";
 
@@ -16,6 +17,7 @@ class App extends Component {
         <Cards/>
         <Search/>
         <Logoes/>
+        <Footer/>
       </div>
     );
   }
