@@ -21,7 +21,7 @@ class MyCard extends Component {
     const { image, cost, name, detail } = this.props;
     const { counter } = this.state;
     return (
-      <Col className="my-3">
+      <Col className="my-2">
         <Card style={{ width: "18rem" }}>
           <Card.Img variant="top" src={image} />
           <Card.Body>

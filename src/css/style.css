@@ -11956,4 +11956,8 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.row {
+  --bs-gutter-x: 0;
+}
 /*# sourceMappingURL=style.css.map */
