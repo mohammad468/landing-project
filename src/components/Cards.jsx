@@ -140,7 +140,7 @@ class Cards extends Component {
           detail:
             "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
           xs: 12,
-          id: 13,
+          id: 14,
         },
         {
           image: s20fe,
@@ -149,7 +149,7 @@ class Cards extends Component {
           detail:
             "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
           xs: 12,
-          id: 13,
+          id: 15,
         },
         {
           image: s20fe,
@@ -158,7 +158,7 @@ class Cards extends Component {
           detail:
             "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
           xs: 12,
-          id: 13,
+          id: 16,
         },
       ],
     };
