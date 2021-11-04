@@ -133,6 +133,33 @@ class Cards extends Component {
           xs: 12,
           id: 13,
         },
+        {
+          image: a12sm,
+          cost: "4,000,000 T",
+          name: "Galaxy A12 SM-A125F/DS",
+          detail:
+            "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+          xs: 12,
+          id: 13,
+        },
+        {
+          image: s20fe,
+          cost: "4,000,000 T",
+          name: "Galaxy A12 SM-A125F/DS",
+          detail:
+            "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+          xs: 12,
+          id: 13,
+        },
+        {
+          image: s20fe,
+          cost: "4,000,000 T",
+          name: "Galaxy A12 SM-A125F/DS",
+          detail:
+            "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+          xs: 12,
+          id: 13,
+        },
       ],
     };
   }
