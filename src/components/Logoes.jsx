@@ -9,7 +9,7 @@ class Logoes extends Component {
     return (
       <div className="my-3">
         <h2 className="text-center my-5">Who Support US ?!</h2>
-        <Row className="my-5 justify-content-center">
+        <Row className="my-5 justify-content-center align-items-center">
           <Col xs={4} sm={3} md={3} lg={3} xl={3} xxl={3}>
             <Image src={apple} fluid />
           </Col>
