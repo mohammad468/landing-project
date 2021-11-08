@@ -3,6 +3,7 @@ import "../css/style.css";
 import { Button, Col } from "react-bootstrap";
 import { Card } from "react-bootstrap";
 import { Badge } from "react-bootstrap";
+import "../css/style.css";
 
 class MyCard extends Component {
   constructor() {
@@ -23,9 +24,9 @@ class MyCard extends Component {
     return (
       <Col className="my-3">
         <Card style={{ width: "18rem" }}>
-          <Card.Img variant="top" src={image} />
+          <Card.Img variant="top" className="mycard-img" src={image} fluid />
           <Card.Body>
-            <Card.Title>{name}</Card.Title>
+            <Card.Title className="mycard-title">{name}</Card.Title>
             <Card.Text className="text-end">{detail}</Card.Text>
             <div className="d-flex justify-content-between align-items-center">
               <Button variant="primary" onClick={this.upDownHandler}>
